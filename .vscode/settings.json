@@ -1,0 +1,19 @@
+{
+"python.pythonPath": "C:\\python38\\python.exe",
+"sqltools.connections": [
+  {
+    "connectionTimeout": 60,
+    "database": "test",
+    "driver": "MySQL",
+    "mysqlOptions": {
+      "authProtocol": "default"
+    },
+    "name": "Sql Server ",
+    "port": 3306,
+    "previewLimit": 50,
+    "server": "localhost",
+    "username": "root",
+    "password": ""
+  }
+]
+}
